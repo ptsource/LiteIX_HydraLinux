@@ -1,2 +1,2 @@
-# LiteIX_HydraLinux
+# PTSource LiteIX and HydraLinux
 PTSource LiteIX and HydraLinux
